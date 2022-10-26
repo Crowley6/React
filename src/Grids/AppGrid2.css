@@ -1,0 +1,13 @@
+.App-grid_2 {
+    grid-area: grid_2;
+    background-color: #73FAC4;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px;
+    font-size: 20px;
+    box-shadow: 0px 0px 5px 2.5px rgb(180, 180, 180);
+}
+.App-grid_2 a:active{
+    color: white;
+}

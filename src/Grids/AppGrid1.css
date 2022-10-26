@@ -1,0 +1,9 @@
+.App-grid_1 {
+    grid-area: grid_1;
+    background-color: #5DE387;
+    border-radius: 15px;
+    font-size: 50px;
+    text-align: center;
+    color: #4853E8;
+    box-shadow: 0px 0px 5px 2.5px rgb(180, 180, 180);
+}

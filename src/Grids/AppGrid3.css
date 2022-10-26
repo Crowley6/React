@@ -1,0 +1,19 @@
+.App-grid_3 {
+    grid-area: grid_3;
+    background-color: #5DE3D3;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 25px 0;
+    box-shadow: 0px 0px 5px 2.5px rgb(180, 180, 180);
+}
+.App-grid_3 div{
+    background-color: #53A9E6;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 2.5px 1.25px rgb(179, 179, 179);
+}
